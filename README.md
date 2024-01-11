@@ -12,13 +12,22 @@ MSSQL ve C# Form İşbirliğiyle Ürün-Stok-Satış Kaydı Tutacağım Bir Otom
 ![Musteri Formu](Musteri_Formu.png)
 
 
-![Login Formu](Login_Formu.png)
-
-
-![Kategori Formu](Kategori_Formu.png)
+![Grafik Formu](Grafik_Formu.png)
 
 
 ![Istatistik Formu](Istatistik_Formu.png)
 
 
-![Grafik Formu](Grafik_Formu.png)
+![Kategori Formu](Kategori_Formu.png)
+
+
+![Login Formu](Login_Formu.png)
+
+
+
+
+
+
+
+
+
