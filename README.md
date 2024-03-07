@@ -3,25 +3,25 @@
 MSSQL ve C# Form İşbirliğiyle Ürün-Stok-Satış Kaydı Tutacağım Bir Otomasyon Sistemi
 
 
-![Satış Kontrol Formu](Satis_Formu.png)
+![Satış Kontrol Formu](images/Satis_Formu.png)
 
 
-![Urun Kontrol Formu](Urun_Formu.png)
+![Urun Kontrol Formu](images/Urun_Formu.png)
 
 
-![Musteri Formu](Musteri_Formu.png)
+![Musteri Formu](images/Musteri_Formu.png)
 
 
-![Grafik Formu](Grafik_Formu.png)
+![Grafik Formu](images/Grafik_Formu.png)
 
 
-![Istatistik Formu](Istatistik_Formu.png)
+![Istatistik Formu](images/Istatistik_Formu.png)
 
 
-![Kategori Formu](Kategori_Formu.png)
+![Kategori Formu](images/Kategori_Formu.png)
 
 
-![Login Formu](Login_Formu.png)
+![Login Formu](images/Login_Formu.png)
 
 
 
